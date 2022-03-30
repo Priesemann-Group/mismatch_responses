@@ -1,4 +1,4 @@
-# Title
+# Visuomotor mismatch responses as a hallmark of explaining away in causal inference
 
 These files accompany the results obtained in *Visuomotor mismatch responses as a hallmark of explaining away in causal inference*.
 <!---
